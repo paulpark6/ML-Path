@@ -1,3 +1,8 @@
+.mainTitle {
+  width: 100%;
+  padding: 10%;
+
+}
 .titleBox{
   padding: 50px;
   background: #3e3d3d;
@@ -7,6 +12,7 @@
   font-weight: 600; /* font thickness */
   font-size: 40px; /* font size */
 }
+
 .box1{
   position: absolute;
   left: 10px;
