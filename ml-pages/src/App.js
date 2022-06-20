@@ -1,4 +1,4 @@
-import profileImage from './images/NikeOffwhite'
+import profileImage from './images/NikeOffWhite.jpg'
 import './App.css';
 
 function App() {
