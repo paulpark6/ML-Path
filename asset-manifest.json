@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ML-Path/static/css/main.a0ac8b23.css",
+    "main.js": "/ML-Path/static/js/main.3c40c3a3.js",
+    "static/js/787.3fe835e8.chunk.js": "/ML-Path/static/js/787.3fe835e8.chunk.js",
+    "static/media/NikeOffWhite.jpg": "/ML-Path/static/media/NikeOffWhite.55363e3f6120e032b954.jpg",
+    "index.html": "/ML-Path/index.html",
+    "main.a0ac8b23.css.map": "/ML-Path/static/css/main.a0ac8b23.css.map",
+    "main.3c40c3a3.js.map": "/ML-Path/static/js/main.3c40c3a3.js.map",
+    "787.3fe835e8.chunk.js.map": "/ML-Path/static/js/787.3fe835e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0ac8b23.css",
+    "static/js/main.3c40c3a3.js"
+  ]
+}
