@@ -4,13 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>
+     <h1 >
       My React App
      </h1>
      <h2>
       Author: Paul Park
      </h2>
-     <img src={profileImage} alt="profile-image"/>
+     <img src={profileImage} alt = "background-image"/>
      <header className="background">
         <h1 className='titleBox'>
           <div className='titleText'>
@@ -19,7 +19,6 @@ function App() {
         </h1>
         <h1 className='box1'>
           <div className='content'>
-            {certifications}
             Python<br/>
             ML course<br/>
             projects
